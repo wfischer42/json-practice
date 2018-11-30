@@ -6,11 +6,17 @@ file, create an array of story objects which will have the following attributes/
 Make sure there are tests.
 
 `#section` - String
+
 `#subsection` - String
+
 `#title` - String - text containing the string of the story
+
 `#abstract` - String - summary of the story
+
 `#link` - String - URL of where the story is located
+
 `#published` - String - Date that the story was published. Example format: "November 29, 2019"
+
 `#photo` - String - URL of the normal sized photo if one exists. Otherwise  `nil`.
 
 
