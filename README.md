@@ -17,7 +17,7 @@ Make sure there are tests.
 
 `#published` - String - Date that the story was published. Example format: "November 29, 2019"
 
-`#photo` - String - URL of the normal sized photo if one exists. Otherwise  `nil`.
+`#photo` - String - URL of the normal sized photo if one exists. Otherwise it should be the string, "No Photo Available".
 
 
 3. Submit a pull request, and submit the link to your PR here: [Google Form](https://goo.gl/forms/BDM5xPNtOBkbJHN32)
