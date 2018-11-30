@@ -1,7 +1,7 @@
 1. Fork and clone this repository.
 
 2. Using only ruby, you will load the contents of `nytimes.json` and from that
-file, create an array of story objects which will have the following attributes/methods.
+file, create an array of `Story` objects which will have the following attributes/methods.
 
 Make sure there are tests.
 
